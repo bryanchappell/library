@@ -1,5 +1,5 @@
 # library
-*inspired by Patrick Collision's [Bookshelf](https://patrickcollison.com/bookshelf)*
+*inspired by [Patrick Collision's](https://twitter.com/patrickc) [Bookshelf](https://patrickcollison.com/bookshelf)*
 
 ### Up Next
 * [Steve Jobs by Walter Isaacson](https://www.amazon.com/Steve-Jobs/dp/B005YUDWD8/)
