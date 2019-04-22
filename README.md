@@ -18,6 +18,7 @@
 * [The Power of Habit: Why We Do What We Do in Life and Business](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X)
 * [Never Split the Difference: Negotiating as if Your Life Depended on It](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805)
 * [How To Be Successful by Sam Altman](http://blog.samaltman.com/how-to-be-successful)
+* [Part 1: How To Be An Adult— Kegan’s Theory of Adult Development](https://medium.com/@NataliMorad/how-to-be-an-adult-kegans-theory-of-adult-development-d63f4311b553)
 
 ### Product
 * [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)
