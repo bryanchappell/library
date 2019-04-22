@@ -9,6 +9,7 @@
 * [Good to Great: Why Some Companies Make the Leap...And Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
 * [The Art Of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772)
 * [Monetizing Innovation: How Smart Companies Design the Product Around the Price](https://www.amazon.com/Monetizing-Innovation-Companies-Design-Product/dp/1536631078)
+* [Nonzero: The Logic of Human Destiny](https://www.amazon.com/Nonzero-Logic-Destiny-Robert-Wright/dp/0679758941)
 
 ### Humans
 * [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
@@ -16,6 +17,7 @@
 * [Living with a SEAL: 31 Days Training with the Toughest Man on the Planet](https://www.amazon.com/Living-SEAL-Training-Toughest-Planet-ebook/dp/B00U6DNZB2)
 * [The Power of Habit: Why We Do What We Do in Life and Business](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X)
 * [Never Split the Difference: Negotiating as if Your Life Depended on It](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805)
+* [How To Be Successful by Sam Altman](http://blog.samaltman.com/how-to-be-successful)
 
 ### Product
 * [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)
