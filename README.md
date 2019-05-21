@@ -10,6 +10,7 @@
 * [The Art Of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772)
 * [Monetizing Innovation: How Smart Companies Design the Product Around the Price](https://www.amazon.com/Monetizing-Innovation-Companies-Design-Product/dp/1536631078)
 * [Nonzero: The Logic of Human Destiny](https://www.amazon.com/Nonzero-Logic-Destiny-Robert-Wright/dp/0679758941)
+* [Everything is F*cked: A Book About Hope](https://www.amazon.com/Untitled-Mark-Manson/dp/0062888439)
 
 ### Humans
 * [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
