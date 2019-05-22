@@ -10,6 +10,8 @@
 * [The Art Of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772)
 * [Monetizing Innovation: How Smart Companies Design the Product Around the Price](https://www.amazon.com/Monetizing-Innovation-Companies-Design-Product/dp/1536631078)
 * [Nonzero: The Logic of Human Destiny](https://www.amazon.com/Nonzero-Logic-Destiny-Robert-Wright/dp/0679758941)
+* [What You Do Is Who You Are: How to Create Your Business Culture](https://www.amazon.com/What-You-Do-Who-Are-ebook/dp/B07NVN4QCM/)
+* [Secrets of Sand Hill Road: Venture Capital and How to Get It](https://www.amazon.com/Secrets-Sand-Hill-Road-Venture-ebook/dp/B07MQT97PV)
 * [Everything is F*cked: A Book About Hope](https://www.amazon.com/Untitled-Mark-Manson/dp/0062888439)
 
 ### Humans
@@ -29,6 +31,7 @@
 * [Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success](https://www.amazon.com/Hacking-Growth-Fastest-Growing-Companies-Breakout/dp/045149721X)
 * [Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and Advertising](https://www.amazon.com/Growth-Hacker-Marketing-Primer-Advertising/dp/1591847389)
 * [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221)
+* [How Superhuman Built an Engine to Find Product/Market Fit](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/)
 
 ### Entrepreneurship 
 * [Zero to One: Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
