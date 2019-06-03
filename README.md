@@ -7,12 +7,16 @@
 * [Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)
 * [Homo Deus: A Brief History of Tomorrow](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464345)
 * [Good to Great: Why Some Companies Make the Leap...And Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
+* [I Will Teach You to Be Rich, Second Edition](https://www.amazon.com/Will-Teach-You-Rich-Second/dp/1523505745/ref=dp_ob_title_bk)
 * [The Art Of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1599869772)
 * [Monetizing Innovation: How Smart Companies Design the Product Around the Price](https://www.amazon.com/Monetizing-Innovation-Companies-Design-Product/dp/1536631078)
 * [Nonzero: The Logic of Human Destiny](https://www.amazon.com/Nonzero-Logic-Destiny-Robert-Wright/dp/0679758941)
 * [What You Do Is Who You Are: How to Create Your Business Culture](https://www.amazon.com/What-You-Do-Who-Are-ebook/dp/B07NVN4QCM/)
 * [Secrets of Sand Hill Road: Venture Capital and How to Get It](https://www.amazon.com/Secrets-Sand-Hill-Road-Venture-ebook/dp/B07MQT97PV)
 * [Everything is F*cked: A Book About Hope](https://www.amazon.com/Untitled-Mark-Manson/dp/0062888439)
+* [Think Like Amazon: 50 1/2 Ideas to Become a Digital Leader](https://www.amazon.com/gp/product/1260455491)
+* [The software development economy](https://www.littleman.co/articles/the-economics-of-software-development/)
+* [Range: Why Generalists Triumph in a Specialized World](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/B07N6MPWLS/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
 
 ### Humans
 * [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
@@ -22,6 +26,7 @@
 * [Never Split the Difference: Negotiating as if Your Life Depended on It](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805)
 * [How To Be Successful by Sam Altman](http://blog.samaltman.com/how-to-be-successful)
 * [Part 1: How To Be An Adult— Kegan’s Theory of Adult Development](https://medium.com/@NataliMorad/how-to-be-an-adult-kegans-theory-of-adult-development-d63f4311b553)
+* [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
 
 ### Product
 * [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)
