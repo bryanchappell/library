@@ -3,7 +3,9 @@
 
 ### Up Next
 * [Steve Jobs by Walter Isaacson](https://www.amazon.com/Steve-Jobs/dp/B005YUDWD8/)
+* [Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World](https://www.amazon.com/Cult-Dead-Cow-Original-Supergroup/dp/B07RX456JM/)
 * [The Third Wave: An Entrepreneur's Vision of the Future](https://www.amazon.com/Third-Wave-Entrepreneurs-Vision-Future/dp/1501132598)
+* [Company of One: Why Staying Small Is the Next Big Thing for Business](https://www.amazon.com/Company-One-Staying-Small-Business/dp/1328972356)
 * [Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)
 * [Homo Deus: A Brief History of Tomorrow](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464345)
 * [Good to Great: Why Some Companies Make the Leap...And Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
