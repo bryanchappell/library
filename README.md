@@ -3,6 +3,8 @@
 
 ### Up Next
 * [Steve Jobs by Walter Isaacson](https://www.amazon.com/Steve-Jobs/dp/B005YUDWD8/)
+* [Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
+* [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515)
 * [Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World](https://www.amazon.com/Cult-Dead-Cow-Original-Supergroup/dp/B07RX456JM/)
 * [The Third Wave: An Entrepreneur's Vision of the Future](https://www.amazon.com/Third-Wave-Entrepreneurs-Vision-Future/dp/1501132598)
 * [Company of One: Why Staying Small Is the Next Big Thing for Business](https://www.amazon.com/Company-One-Staying-Small-Business/dp/1328972356)
