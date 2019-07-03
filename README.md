@@ -3,6 +3,7 @@
 
 ### Up Next
 * [Steve Jobs by Walter Isaacson](https://www.amazon.com/Steve-Jobs/dp/B005YUDWD8/)
+* [Accelerate: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Building-Performing-Technology-Organizations/dp/B07BMBYHXL/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
 * [Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
 * [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515)
 * [Player Piano: A Novel](https://www.amazon.com/Player-Piano-Novel-Kurt-Vonnegut/dp/0385333781)
