@@ -23,6 +23,7 @@
 * [Think Like Amazon: 50 1/2 Ideas to Become a Digital Leader](https://www.amazon.com/gp/product/1260455491)
 * [The software development economy](https://www.littleman.co/articles/the-economics-of-software-development/)
 * [Range: Why Generalists Triumph in a Specialized World](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/B07N6MPWLS/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
+* [The Manual: A Philosopher's Guide to Life](https://www.amazon.com/Manual-Philosophers-Guide-Life/dp/B072J5M878)
 
 ### Humans
 * [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
@@ -33,6 +34,7 @@
 * [How To Be Successful by Sam Altman](http://blog.samaltman.com/how-to-be-successful)
 * [Part 1: How To Be An Adult— Kegan’s Theory of Adult Development](https://medium.com/@NataliMorad/how-to-be-an-adult-kegans-theory-of-adult-development-d63f4311b553)
 * [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
+* [Claude Shannon: How a Genius Solves Problems](https://medium.com/personal-growth/claude-shannon-how-a-real-genius-solves-problems-15b434aeb2b6)
 
 ### Product
 * [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)
