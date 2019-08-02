@@ -25,6 +25,7 @@
 * [Range: Why Generalists Triumph in a Specialized World](https://www.amazon.com/Range-Generalists-Triumph-Specialized-World/dp/B07N6MPWLS/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
 * [The Manual: A Philosopher's Guide to Life](https://www.amazon.com/Manual-Philosophers-Guide-Life/dp/B072J5M878)
 * [List from Andy Sparks](https://twitter.com/sparkszilla/status/1136774075580178432?s=21)
+* [INSPIRED: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
 
 ### Humans
 * [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
