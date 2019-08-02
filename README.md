@@ -3,6 +3,11 @@
 
 ### Up Next
 * [Steve Jobs by Walter Isaacson](https://www.amazon.com/Steve-Jobs/dp/B005YUDWD8/)
+* [Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead](https://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554790)
+* [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186)
+* [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth-ebook/dp/B06XP3GJ7F)
+* [Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)
+* [Thinking in Systems: A Primer ](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557)
 * [Accelerate: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Building-Performing-Technology-Organizations/dp/B07BMBYHXL/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
 * [Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
 * [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515)
