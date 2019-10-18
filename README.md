@@ -57,6 +57,7 @@
 
 ### Entrepreneurship 
 * [Zero to One: Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
+* [Which Way Do You Run](https://a16z.com/2019/10/17/how-to-be-effective-ceo-leader/)
 * [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447)
 * [Shoe Dog: A Memoir by the Creator of Nike](https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike-ebook/dp/B0176M1A44)
 * [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
