@@ -32,6 +32,7 @@
 * [List from Andy Sparks](https://twitter.com/sparkszilla/status/1136774075580178432?s=21)
 * [INSPIRED: How to Create Tech Products Customers Love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
 * [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B00VE4Y0Z2)
+* [What You Do Is Who You Are: How to Create Your Business Culture](https://www.amazon.com/What-You-Do-Who-Are/dp/B07X36GGQ7)
 
 ### Humans
 * [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
@@ -80,4 +81,5 @@
 * [Rise of the Robots: Technology and the Threat of a Jobless Future](https://www.amazon.com/Rise-Robots-Technology-Threat-Jobless/dp/0465097537)
 * [How to Fix the Future](https://www.amazon.com/How-Fix-Future-Andrew-Keen/dp/0802126642)
 * [Our Final Invention: Artificial Intelligence and the End of the Human Era](https://www.amazon.com/Our-Final-Invention-Artificial-Intelligence/dp/0312622376)
+* [Human Compatible: Artificial Intelligence and the Problem of Control](https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem/dp/0525558616/)
 
