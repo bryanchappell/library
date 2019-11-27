@@ -44,6 +44,9 @@
 * [Part 1: How To Be An Adult— Kegan’s Theory of Adult Development](https://medium.com/@NataliMorad/how-to-be-an-adult-kegans-theory-of-adult-development-d63f4311b553)
 * [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html)
 * [Claude Shannon: How a Genius Solves Problems](https://medium.com/personal-growth/claude-shannon-how-a-real-genius-solves-problems-15b434aeb2b6)
+* [The Man Who Solved the Market](https://www.amazon.com/Man-Who-Solved-Market-Revolution/dp/0241422159)
+* [A Man for All Markets](https://www.amazon.com/Man-All-Markets-Street-Dealer/dp/1400067960)
+* [The Bus Ticket Theory of Genius](http://paulgraham.com/genius.html)
 
 ### Product
 * [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)
