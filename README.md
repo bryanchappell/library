@@ -35,6 +35,7 @@
 * [What You Do Is Who You Are: How to Create Your Business Culture](https://www.amazon.com/What-You-Do-Who-Are/dp/B07X36GGQ7)
 * [More From Less](https://www.amazon.com/gp/product/1982103574?pf_rd_p=ab873d20-a0ca-439b-ac45-cd78f07a84d8&pf_rd_r=87HS02N2KDNH70SQBMAV)
 * [Winners Take All: The Elite Charade of Changing the World](https://www.amazon.com/Winners-Take-All-Charade-Changing/dp/0451493249)
+* [The Infinite Game](https://www.amazon.com/The-Infinite-Game/dp/B07DKHFTB7/ref=sr_1_1?crid=2H5MPDJI0ZNLB&keywords=infinite+game+simon+sinek+book&qid=1579812815&sprefix=infinite+game+%2Caps%2C172&sr=8-1)
 
 ### Humans
 * [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
