@@ -50,6 +50,7 @@
 * [The Man Who Solved the Market](https://www.amazon.com/Man-Who-Solved-Market-Revolution/dp/0241422159)
 * [A Man for All Markets](https://www.amazon.com/Man-All-Markets-Street-Dealer/dp/1400067960)
 * [The Bus Ticket Theory of Genius](http://paulgraham.com/genius.html)
+* [A Complete Guide to the Gunning Kruger Effect](https://medium.com/better-marketing/a-complete-guide-to-the-dunning-kruger-effect-44e102073931)
 
 ### Product
 * [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)
