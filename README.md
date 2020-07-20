@@ -89,4 +89,5 @@
 * [How to Fix the Future](https://www.amazon.com/How-Fix-Future-Andrew-Keen/dp/0802126642)
 * [Our Final Invention: Artificial Intelligence and the End of the Human Era](https://www.amazon.com/Our-Final-Invention-Artificial-Intelligence/dp/0312622376)
 * [Human Compatible: Artificial Intelligence and the Problem of Control](https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem/dp/0525558616/)
+* [Local-First Software](https://www.inkandswitch.com/local-first.html)
 
