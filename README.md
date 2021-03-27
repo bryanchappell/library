@@ -1,7 +1,14 @@
 # library
 *inspired by [Patrick Collision's](https://twitter.com/patrickc) [Bookshelf](https://patrickcollison.com/bookshelf)*
 
+### Lists
+* [Josh Wolfe](https://twitter.com/wolfejosh/status/1348817535605608449?s=20)
+* [Definitive List of 50 Books to Understand Everything in the Universe](https://medium.com/swlh/definitive-list-of-50-books-to-understand-everything-in-the-universe-6d04f1a08533)
+
 ### Up Next
+* [Finite and Infinite Games](https://www.amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713)
+* [Super Thinking: The Big Book of Mental Models ](https://www.amazon.com/Super-Thinking-Book-Mental-Models/dp/0525533583)
+* [Game Thinking: Innovate Smarter & Drive Deep Engagement with Design Techniques from Hit Games](https://www.amazon.com/Game-Thinking-Amy-Jo-Kim-PhD-audiobook-dp-B07NF9QR2Z/dp/B07NF9QR2Z/ref=mt_other?_encoding=UTF8&me=&qid=)
 * [Steve Jobs by Walter Isaacson](https://www.amazon.com/Steve-Jobs/dp/B005YUDWD8/)
 * [Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead](https://www.amazon.com/Work-Rules-Insights-Inside-Transform/dp/1455554790)
 * [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186)
@@ -39,6 +46,7 @@
 * [The Obstacle Is the Way](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358)
 
 ### Humans
+* [Charlie Munger's The Psychology of Human Misjudgement](https://www.youtube.com/watch?v=kOGvX5_5MHc)
 * [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
 * [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)
 * [Living with a SEAL: 31 Days Training with the Toughest Man on the Planet](https://www.amazon.com/Living-SEAL-Training-Toughest-Planet-ebook/dp/B00U6DNZB2)
@@ -52,6 +60,7 @@
 * [A Man for All Markets](https://www.amazon.com/Man-All-Markets-Street-Dealer/dp/1400067960)
 * [The Bus Ticket Theory of Genius](http://paulgraham.com/genius.html)
 * [A Complete Guide to the Gunning Kruger Effect](https://medium.com/better-marketing/a-complete-guide-to-the-dunning-kruger-effect-44e102073931)
+* [Occam's_razor](https://en.m.wikipedia.org/wiki/Occam%27s_razor)
 
 ### Product
 * [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)
