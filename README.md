@@ -6,6 +6,7 @@
 * [Definitive List of 50 Books to Understand Everything in the Universe](https://medium.com/swlh/definitive-list-of-50-books-to-understand-everything-in-the-universe-6d04f1a08533)
 
 ### Up Next
+* [Zen and the Art of Motorcycle Maintenance: An Inquiry into Values](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469)
 * [Finite and Infinite Games](https://www.amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713)
 * [Super Thinking: The Big Book of Mental Models ](https://www.amazon.com/Super-Thinking-Book-Mental-Models/dp/0525533583)
 * [Game Thinking: Innovate Smarter & Drive Deep Engagement with Design Techniques from Hit Games](https://www.amazon.com/Game-Thinking-Amy-Jo-Kim-PhD-audiobook-dp-B07NF9QR2Z/dp/B07NF9QR2Z/ref=mt_other?_encoding=UTF8&me=&qid=)
