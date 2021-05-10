@@ -62,6 +62,7 @@
 * [The Bus Ticket Theory of Genius](http://paulgraham.com/genius.html)
 * [A Complete Guide to the Gunning Kruger Effect](https://medium.com/better-marketing/a-complete-guide-to-the-dunning-kruger-effect-44e102073931)
 * [Occam's_razor](https://en.m.wikipedia.org/wiki/Occam%27s_razor)
+* [Antifragile: Things That Gain from Disorder](https://www.amazon.com/dp/B00A2ZIZYQ/ref=redir_mobile_desktop?_encoding=UTF8&qid=&ref_=tmm_aud_swatch_0&sr=)
 
 ### Product
 * [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)
