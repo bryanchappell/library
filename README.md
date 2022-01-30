@@ -6,8 +6,20 @@
 * [Definitive List of 50 Books to Understand Everything in the Universe](https://medium.com/swlh/definitive-list-of-50-books-to-understand-everything-in-the-universe-6d04f1a08533)
 
 ### Up Next
-* [Zen and the Art of Motorcycle Maintenance: An Inquiry into Values](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469)
+* [Catch 22](https://www.amazon.com/Catch-22-50th-Anniversary-Joseph-Heller/dp/1451626657)
+* [The Minimalist Entrepreneur](https://www.amazon.com/Minimalist-Entrepreneur-Great-Founders-More/dp/0593192397)
+* [How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
+* [Rebels at Work](https://www.amazon.com/Rebels-Work-Handbook-Leading-Change/dp/1491903953)
+* [The Scout Mindset](https://www.amazon.com/Scout-Mindset-Perils-Defensive-Thinking/dp/0735217556)
+* [Essentialism: The Disciplined Pursuit of Less](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382/ref=nodl_)
+* [The Cold Start Problem](https://www.coldstart.com/)
 * [Finite and Infinite Games](https://www.amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713)
+* [The Skeptics' Guide to the Universe](https://www.amazon.com/Skeptics-Guide-Universe-Really-Increasingly/dp/1538760533)
+* [The Courage to Be Disliked](https://www.amazon.com/Courage-Be-Disliked-Phenomenon-Happiness/dp/1501197274)
+* [The Embedded Entrepreneur](https://embeddedentrepreneur.com/)
+* [Ask Your Developer](https://www.amazon.com/Ask-Your-Developer-Software-Developers-ebook/dp/B08425FV7S)
+* [Zero: The Biography of a Dangerous Idea](https://www.amazon.com/Zero-Biography-Dangerous-Charles-Seife/dp/0140296476)
+* [Zen and the Art of Motorcycle Maintenance: An Inquiry into Values](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469)
 * [Super Thinking: The Big Book of Mental Models ](https://www.amazon.com/Super-Thinking-Book-Mental-Models/dp/0525533583)
 * [Game Thinking: Innovate Smarter & Drive Deep Engagement with Design Techniques from Hit Games](https://www.amazon.com/Game-Thinking-Amy-Jo-Kim-PhD-audiobook-dp-B07NF9QR2Z/dp/B07NF9QR2Z/ref=mt_other?_encoding=UTF8&me=&qid=)
 * [Steve Jobs by Walter Isaacson](https://www.amazon.com/Steve-Jobs/dp/B005YUDWD8/)
@@ -76,6 +88,7 @@
 * [Shape Up](https://basecamp.com/shapeup)
 
 ### Entrepreneurship 
+* [The Great CEO Within: The Tactical Guide to Company Building](https://www.amazon.com/Great-CEO-Within-Tactical-Building-ebook/dp/B07ZLGQZYC)
 * [Zero to One: Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
 * [Which Way Do You Run](https://a16z.com/2019/10/17/how-to-be-effective-ceo-leader/)
 * [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447)
@@ -97,6 +110,7 @@
 * [The Everything Store: Jeff Bezos and the Age of Amazon](https://www.amazon.com/Everything-Store-Jeff-Bezos-Amazon/dp/0316219266)
 
 ### Technology
+* [What Tech Calls Thinking: An Inquiry into the Intellectual Bedrock of Silicon Valley](https://www.amazon.com/What-Tech-Calls-Thinking-Intellectual/dp/0374538646)
 * [Rise of the Robots: Technology and the Threat of a Jobless Future](https://www.amazon.com/Rise-Robots-Technology-Threat-Jobless/dp/0465097537)
 * [How to Fix the Future](https://www.amazon.com/How-Fix-Future-Andrew-Keen/dp/0802126642)
 * [Our Final Invention: Artificial Intelligence and the End of the Human Era](https://www.amazon.com/Our-Final-Invention-Artificial-Intelligence/dp/0312622376)
