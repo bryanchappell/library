@@ -6,6 +6,9 @@
 * [Definitive List of 50 Books to Understand Everything in the Universe](https://medium.com/swlh/definitive-list-of-50-books-to-understand-everything-in-the-universe-6d04f1a08533)
 
 ### Up Next
+* [The Beginning of Infinity: Explanations That Transform the World](https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359/ref=nodl_)
+* [The Power Law: Venture Capital and the Making of the New Future](https://www.amazon.com/Power-Law-Venture-Capital-Making/dp/052555999X)
+* [Demand-Side Sales 101: Stop Selling and Help Your Customers Make Progress](https://www.amazon.com/Demand-Side-Sales-101-Customers-Progress/dp/1544509987)
 * [Catch 22](https://www.amazon.com/Catch-22-50th-Anniversary-Joseph-Heller/dp/1451626657)
 * [The Minimalist Entrepreneur](https://www.amazon.com/Minimalist-Entrepreneur-Great-Founders-More/dp/0593192397)
 * [How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
@@ -77,6 +80,7 @@
 * [Antifragile: Things That Gain from Disorder](https://www.amazon.com/dp/B00A2ZIZYQ/ref=redir_mobile_desktop?_encoding=UTF8&qid=&ref_=tmm_aud_swatch_0&sr=)
 
 ### Product
+* [Build: An Unorthodox Guide to Making Things Worth Making](https://www.amazon.com/dp/B09CF2YB6Z/ref=cm_sw_r_cp_api_76WMGKW5JEV2VAPWSFKA)
 * [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)
 * [Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788/)
 * [Contagious: Why Things Catch On](https://www.amazon.com/Contagious-Things-Catch-Jonah-Berger/dp/1451686587)
@@ -88,6 +92,7 @@
 * [Shape Up](https://basecamp.com/shapeup)
 
 ### Entrepreneurship 
+* [Don’t let anyone overpay you](https://m.signalvnoise.com/dont-let-anyone-overpay-you/)
 * [The Great CEO Within: The Tactical Guide to Company Building](https://www.amazon.com/Great-CEO-Within-Tactical-Building-ebook/dp/B07ZLGQZYC)
 * [Zero to One: Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
 * [Which Way Do You Run](https://a16z.com/2019/10/17/how-to-be-effective-ceo-leader/)
