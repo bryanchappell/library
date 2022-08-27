@@ -81,6 +81,7 @@
 * [Antifragile: Things That Gain from Disorder](https://www.amazon.com/dp/B00A2ZIZYQ/ref=redir_mobile_desktop?_encoding=UTF8&qid=&ref_=tmm_aud_swatch_0&sr=)
 
 ### Product
+* [The Mom Test](https://www.amazon.com/The-Mom-Test-Rob-Fitzpatrick-audiobook/dp/B07RJZKZ7F)
 * [Build: An Unorthodox Guide to Making Things Worth Making](https://www.amazon.com/dp/B09CF2YB6Z/ref=cm_sw_r_cp_api_76WMGKW5JEV2VAPWSFKA)
 * [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)
 * [Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788/)
