@@ -63,6 +63,7 @@
 * [The Obstacle Is the Way](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358)
 
 ### Humans
+* [The Expectation Effect](https://www.amazon.com/Expectation-Effect-Mindset-Change-World/dp/1250827639)
 * [Charlie Munger's The Psychology of Human Misjudgement](https://www.youtube.com/watch?v=kOGvX5_5MHc)
 * [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
 * [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)
