@@ -61,6 +61,7 @@
 * [Winners Take All: The Elite Charade of Changing the World](https://www.amazon.com/Winners-Take-All-Charade-Changing/dp/0451493249)
 * [The Infinite Game](https://www.amazon.com/The-Infinite-Game/dp/B07DKHFTB7/ref=sr_1_1?crid=2H5MPDJI0ZNLB&keywords=infinite+game+simon+sinek+book&qid=1579812815&sprefix=infinite+game+%2Caps%2C172&sr=8-1)
 * [The Obstacle Is the Way](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358)
+* [Talent: How to Identify Energizers, Creatives, and Winners Around the World](https://www.amazon.com/Talent-Identify-Energizers-Creatives-Winners/dp/1250275814/ref=nodl_?&linkCode=sl1&linkId=a362564ba97594f4b4d0124615e4d6df&language=en_US&dplnkId=7c7d9a04-dd34-4ac0-9c85-1217722eaccf)
 
 ### Humans
 * [The Expectation Effect](https://www.amazon.com/Expectation-Effect-Mindset-Change-World/dp/1250827639)
