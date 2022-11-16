@@ -125,4 +125,5 @@
 * [Our Final Invention: Artificial Intelligence and the End of the Human Era](https://www.amazon.com/Our-Final-Invention-Artificial-Intelligence/dp/0312622376)
 * [Human Compatible: Artificial Intelligence and the Problem of Control](https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem/dp/0525558616/)
 * [Local-First Software](https://www.inkandswitch.com/local-first.html)
+* [Building a Second Brain](https://www.amazon.com/Building-a-Second-Brain/dp/1800812213/ref=asc_df_1800812213)
 
