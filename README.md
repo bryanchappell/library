@@ -6,6 +6,7 @@
 * [Definitive List of 50 Books to Understand Everything in the Universe](https://medium.com/swlh/definitive-list-of-50-books-to-understand-everything-in-the-universe-6d04f1a08533)
 
 ### Up Next
+* [Free Will](https://www.amazon.com/Free-Will-Sam-Harris-audiobook/dp/B007HI3AVY/ref=tmm_aud_swatch_0?qid=&sr=)
 * [Dee Hock Essays](http://www.deewhock.com/essays)
 * [The Beginning of Infinity: Explanations That Transform the World](https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359/ref=nodl_)
 * [The Power Law: Venture Capital and the Making of the New Future](https://www.amazon.com/Power-Law-Venture-Capital-Making/dp/052555999X)
