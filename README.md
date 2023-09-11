@@ -6,6 +6,7 @@
 * [Definitive List of 50 Books to Understand Everything in the Universe](https://medium.com/swlh/definitive-list-of-50-books-to-understand-everything-in-the-universe-6d04f1a08533)
 
 ### Up Next
+* [Alone at Dawn](https://www.amazon.com/Alone-Dawn-Recipient-Deadliest-Operations/dp/1538729652)
 * [Building a StoryBrand: Clarify Your Message So Customers Will Listen](https://www.amazon.com/Building-StoryBrand-Donald-Miller-audiobook/dp/B072J8WRND/ref=mp_s_a_1_1?adgrpid=55667665603&gclid=EAIaIQobChMI3Pbc87rh_QIVg4NbCh1HNAn1EAAYASAAEgLpAfD_BwE&hvadid=617005510062&hvdev=m&hvlocphy=9010487&hvnetw=g&hvqmt=e&hvrand=11381775571583610681&hvtargid=kwd-309197146974&hydadcr=15148_13597721&keywords=donald+miller+story+brand&qid=1679004438&sr=8-1)
 * [Collective Illusions: Conformity, Complicity, and the Science of Why We Make Bad Decisions](https://www.amazon.com/Collective-Illusions-Conformity-Complicity-Decisions/dp/0306925680/ref=nodl_?dplnkId=32194310-a3e8-4bdf-87f6-eb30aedef5e6)
 * [Free Will](https://www.amazon.com/Free-Will-Sam-Harris-audiobook/dp/B007HI3AVY/ref=tmm_aud_swatch_0?qid=&sr=)
