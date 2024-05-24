@@ -6,6 +6,7 @@
 * [Definitive List of 50 Books to Understand Everything in the Universe](https://medium.com/swlh/definitive-list-of-50-books-to-understand-everything-in-the-universe-6d04f1a08533)
 
 ### Up Next
+* [Tribe: On Homecoming and Belonging](https://www.amazon.com/Tribe-Homecoming-Belonging-Sebastian-Junger/dp/1455566381)
 * [Good to Great: Why Some Companies Make the Leap and Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996)
 * [Alone at Dawn](https://www.amazon.com/Alone-Dawn-Recipient-Deadliest-Operations/dp/1538729652)
 * [Building a StoryBrand: Clarify Your Message So Customers Will Listen](https://www.amazon.com/Building-StoryBrand-Donald-Miller-audiobook/dp/B072J8WRND/ref=mp_s_a_1_1?adgrpid=55667665603&gclid=EAIaIQobChMI3Pbc87rh_QIVg4NbCh1HNAn1EAAYASAAEgLpAfD_BwE&hvadid=617005510062&hvdev=m&hvlocphy=9010487&hvnetw=g&hvqmt=e&hvrand=11381775571583610681&hvtargid=kwd-309197146974&hydadcr=15148_13597721&keywords=donald+miller+story+brand&qid=1679004438&sr=8-1)
