@@ -6,6 +6,7 @@
 * [Definitive List of 50 Books to Understand Everything in the Universe](https://medium.com/swlh/definitive-list-of-50-books-to-understand-everything-in-the-universe-6d04f1a08533)
 
 ### Up Next
+* [Competing Against Luck: The Story of Innovation and Customer Choice](https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612)
 * [Tribe: On Homecoming and Belonging](https://www.amazon.com/Tribe-Homecoming-Belonging-Sebastian-Junger/dp/1455566381)
 * [Good to Great: Why Some Companies Make the Leap and Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996)
 * [Alone at Dawn](https://www.amazon.com/Alone-Dawn-Recipient-Deadliest-Operations/dp/1538729652)
